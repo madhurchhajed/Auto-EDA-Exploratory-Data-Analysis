@@ -16,3 +16,16 @@ A desktop application was created which will allow user to perform basic data an
            • Installed RAM – 8.00 GB  
            • System type – 64-bit OS
            
+
+
+<p align="center">
+  <img src="images/1.JPG" >
+ <img src="images/2.JPG">
+<img src="images/3.JPG">
+<img src="images/4.JPG" >
+<img src="images/5.JPG">
+<img src="images/6.JPG" >
+<img src="images/7.JPG">
+<img src="images/8.JPG" >
+
+</p>
