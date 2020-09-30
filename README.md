@@ -1,7 +1,7 @@
 # Auto-Exploratory-Data-Analysis
 A desktop application was created which will allow user to perform basic data analysis and pre-processing of CSV dataset easily.
 
- All the process like getting general information of data, statistical functions, handling missing values, creating graphs etc will be done through GUI just by clicking process so that user will not have to write any piece of code and all the basic steps in analysing and pre-processing of data could be done easily.
+ All the process like getting general information of data, statistical functions, handling missing values, creating graph etc will be done through GUI just by clicking process so that user will not have to write any piece of code and all the basic steps in analysing and pre-processing of data could be done easily.
  
  Version: 
  • Python 3.7.0
